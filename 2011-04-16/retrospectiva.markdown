@@ -1,4 +1,4 @@
-:)
+#:)
 
 - coffee break +++++++
 - troca de ideias e experiências durante coffee break
@@ -9,14 +9,14 @@
 - infraestrutura
 - organização bacana
 
-:(
+#:(
 
 - timidez no início
 - faltou sinalização de onde era o dojo
 - atraso para começar
 - pares falando baixo
 
-Melhorar
+#Melhorar
 
 - cartaz explicando funcionamento do dojo
 - explicar melhor TDD
