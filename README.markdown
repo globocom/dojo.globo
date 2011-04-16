@@ -1,4 +1,4 @@
-#Globojo
+#dojo.globo
 
 Dojo organizado pela Globo.com.
 
